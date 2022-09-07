@@ -1,0 +1,19 @@
+body {
+  width: 90%;
+  background-color: aliceblue;
+  margin: 0 auto;
+}
+
+#tituloUno {
+  background-color: blue;
+}
+
+.tituloDos {
+  background-color: yellow;
+}
+
+h1 {
+  background-color: tomato;
+  text-align: center;
+  color: azure;
+}
